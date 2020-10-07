@@ -3,17 +3,17 @@
 <strong> Projeto de automação para verificação de promoção escolar  </strong>
 
 
- /*Projeto simples porem arrojado, muito util, promissor e pratico no tocante ao dizer ao usuario com base nos dados inseridos, se o mesmo esta promovido ou não.
+   Projeto simples porem arrojado, muito util, promissor e pratico no tocante ao dizer ao usuario com base nos dados inseridos, se o mesmo esta promovido ou não.
  *
  * Projeto base inicial com interação via console na ide  
  *
- *  Evoluirá para uma interface gráfica via Jframe, assim oferando + recursos graficos vizualmente + atrativos, organizados e direcionados
+ *  Evoluirá para uma interface gráfica via Jframe, assim ofertando + recursos graficos vizualmente + atrativos, organizados e direcionados
  *
  *   A ideia futura é implantar layout atrativo, segurança e instabilidade a interface, disponibilizando via app ou executável desktop,
  *   a implantação comercial ou open source
  *   
  *     Muito anima me o estudo e analise de integridade e segurança da interface, assim gerando credibilidade e sem sobras de duvida ao resultado no 
- *      tocanto ao apresentado pós consulta...
+ *     tocanto ao apresentado pós consulta...
  
  *       Encerro por aqui 07/10/2020
  *    
@@ -32,5 +32,5 @@
  *               in terms of the post consultation ...
  *                   for today it's good...finish... october 10 2020
  *
- */
+ 
     
