@@ -3,7 +3,7 @@
 <strong> Projeto de automação para verificação de promoção escolar  </strong>
 
 
-   Projeto simples porem arrojado, muito util, promissor e pratico no tocante ao dizer ao usuario com base nos dados inseridos, se o mesmo esta promovido ou não.
+   Projeto simples porem arrojado, muito util e pratico no tocante ao dizer ao usuario com base nos dados inseridos, se o mesmo esta promovido ou não.
  *
  * Projeto base inicial com interação via console na ide  
  *
@@ -12,9 +12,7 @@
  *   A ideia futura é implantar layout atrativo, segurança e instabilidade a interface, disponibilizando via app ou executável desktop,
  *   a implantação comercial ou open source
  *   
- *     Muito anima me o estudo e analise de integridade e segurança da interface, assim gerando credibilidade e sem sobras de duvida ao resultado no 
- *     tocanto ao apresentado pós consulta...
- 
+ *    
  *       Encerro por aqui 07/10/2020
  *    
  *    
@@ -28,9 +26,8 @@
  *        
  *          The future idea is to implement an attractive layout, security and instability an interface, making it available via app or desktop executable,
  * 
- *             I am very excited to study and analyze the integrity and security of the interface, thus generating credibility and with no doubt about the result
- *               in terms of the post consultation ...
- *                   for today it's good...finish... october 10 2020
+ *             
+ *             for today it's good...finish... october 10 2020
  *
  
     
