@@ -8,9 +8,11 @@
  * Projeto base inicial com interação via console na ide  
  *
  *  Evoluirá para uma interface gráfica via Jframe, assim ofertando + recursos graficos vizualmente + atrativos, organizados e direcionados
+ *  projeto possivelmente pode evoluir com layout thymeleaf
  *
  *   A ideia futura é implantar layout atrativo, segurança e instabilidade a interface, disponibilizando via app ou executável desktop,
- *   a implantação comercial ou open source
+   
+ *   banco de dados, validacoes, credencias de acesso e interface são por hora as melhorias a se implementar
  *   
  *    
  *       Encerro por aqui 07/10/2020
